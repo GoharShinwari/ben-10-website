@@ -1,0 +1,32 @@
+.top-bar {
+    background-color: #476930;
+    color: rgba(255, 255, 255, 0.87);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+  }
+  
+  .top-bar h2 {
+    font-family: 'Source Code Pro', Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 1.5rem;
+  }
+  
+  .nav-link {
+    color: #ffffff;
+    font-size: 1rem;
+    margin-right: 2rem;
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  
+  .nav-link:hover {
+    color: black;
+  }
+  
+  .nav-link .chakra-button__left-addon {
+    margin-right: 8px;
+  }
+  

@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400;500&display=swap');
+
+body {
+    font-family: 'Source Code Pro', Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    margin: 0;
+  }
+  
+  .landing-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+    color: #86B049;
+  }
+  
+  .landing-page h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+  }
+  
+  .landing-page p {
+    font-size: 1.2em;
+    color: white;
+    margin-bottom: 40px;
+  }
+  
+  .landing-page button {
+    font-family: 'Source Code Pro', Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    border: none;
+    border-radius: 8px;
+    padding: 15px 30px;
+    font-size: 1.2em;
+    font-weight: 600;
+    background-color: #476930;
+    color: #ffffff;
+    cursor: pointer;
+    transition: background-color 0.25s;
+  }
+  
+  .landing-page button:hover {
+    background-color: #375225; 
+  }
+  
