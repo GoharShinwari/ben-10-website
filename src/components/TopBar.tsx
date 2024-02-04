@@ -1,5 +1,4 @@
 // src/components/TopBar.tsx
-import React from "react";
 import { Box, Flex, Heading, Spacer } from "@chakra-ui/react";
 import { FaBook, FaGithub } from "react-icons/fa";
 import { Link } from "react-router-dom";
@@ -20,7 +19,7 @@ function TopBar() {
             <Spacer mx={10} />
             Docs
           </Link>
-          <a href="https://github.com/your-github-repo" className="nav-link">
+          <a href="https://github.com/GoharShinwari/ben-10-website" className="nav-link">
             <FaGithub size={20} />
             <Spacer mx={10} />
             GitHub
