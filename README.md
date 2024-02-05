@@ -13,11 +13,6 @@
     <a href="ben-10-api.netlify.app"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/GoharShinwari/ben-10-website">View Demo</a>
-    .
-    <a href="https://github.com/GoharShinwari/ben-10-website/issues">Report Bug</a>
-    .
-    <a href="https://github.com/GoharShinwari/ben-10-website/issues">Request Feature</a>
   </p>
 </p>
 
