@@ -1,30 +1,36 @@
-# React + TypeScript + Vite
+<br/>
+<p align="center">
+  <a href="https://github.com/GoharShinwari/ben-10-website">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Ben_10_Omnitrix.png" alt="Logo" width="80" height="80">
+  </a>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+  <h3 align="center">Ben 10 API</h3>
 
-Currently, two official plugins are available:
+  <p align="center">
+    It's Hero Time!
+    <br/>
+    <br/>
+  </p>
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Contributors](https://img.shields.io/github/contributors/GoharShinwari/ben-10-website?color=dark-green) ![Forks](https://img.shields.io/github/forks/GoharShinwari/ben-10-website?style=social) ![Stargazers](https://img.shields.io/github/stars/GoharShinwari/ben-10-website?style=social) ![License](https://img.shields.io/github/license/GoharShinwari/ben-10-website) 
 
-## Expanding the ESLint configuration
+## Table Of Contents
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+* [About the Project](#about-the-project)
+* [License](#license)
 
-- Configure the top-level `parserOptions` property like this:
+## About The Project
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+A passion-driven project crafted by enthusiasts for fans seeking a dedicated API for their Ben 10 projects. 🚀
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+Eliminating the frustration of searching for reliable Ben 10 data, our API offers easy integration for fan sites, trivia apps, and games. 🎮
+
+With detailed character information, comprehensive episode details, and engaging trivia, our API is designed to amplify your creative ventures. 📚
+
+Join us in making the Ultimate Ben 10 API the go-to resource for Ben 10 enthusiasts worldwide! 🌍
+
+
+## License
+
+Distributed under the MIT License. See [LICENSE](https://github.com/GoharShinwari/ben-10-website/blob/main/LICENSE.md) for more information.
