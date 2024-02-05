@@ -1,4 +1,3 @@
-// src/components/TopBar.tsx
 import { Box, Flex, Heading, Spacer } from "@chakra-ui/react";
 import { FaBook, FaGithub } from "react-icons/fa";
 import { Link } from "react-router-dom";
