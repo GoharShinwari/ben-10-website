@@ -10,7 +10,7 @@
     It's Hero Time!
     <br/>
     <br/>
-    <a href="https://github.com/GoharShinwari/ben-10-website"><strong>Explore the docs »</strong></a>
+    <a href="ben-10-api.netlify.app"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
     <a href="https://github.com/GoharShinwari/ben-10-website">View Demo</a>
