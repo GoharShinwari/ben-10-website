@@ -83,7 +83,7 @@ const Docs: React.FC = () => {
       <EndpointContainer
         title="Retrieve a random Alien"
         description="Retrieve information about a random alien by making a GET request to:"
-        endpoint="https://ben-10-api.onrender.com/aliens/"
+        endpoint="https://ben-10-api.onrender.com/aliens"
         exampleOutput={exampleRandomOutput}
       />
 
