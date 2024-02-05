@@ -10,9 +10,6 @@
     It's Hero Time!
     <br/>
     <br/>
-    <a href="ben-10-api.netlify.app"><strong>Explore the docs »</strong></a>
-    <br/>
-    <br/>
   </p>
 </p>
 
