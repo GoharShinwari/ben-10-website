@@ -62,7 +62,7 @@ git clone https://github.com/GoharShinwari/ben-10-website.git
 2. Navigate to the project directory:
 
 ```sh
-cd ben-10-websit
+cd ben-10-website
 ```
 
 3. Install the required dependencies:
